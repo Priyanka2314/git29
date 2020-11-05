@@ -9,3 +9,7 @@ echo $sum
 echo "Lets subtract two numbers "
 ((subResult=x-y))
 echo $subResult
+
+echo "Lets reply two numbers"
+((mulResult=x*y))
+echo $mulResult
